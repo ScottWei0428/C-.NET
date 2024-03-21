@@ -1,0 +1,36 @@
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.mainForm.resources
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.csproj.GenerateResource.cache
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.AssemblyInfoInputs.cache
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.AssemblyInfo.cs
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.csproj.CoreCompileInputs.cache
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\bin\Debug\net8.0-windows\lab6.exe
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\bin\Debug\net8.0-windows\lab6.deps.json
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\bin\Debug\net8.0-windows\lab6.runtimeconfig.json
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\bin\Debug\net8.0-windows\lab6.dll
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\bin\Debug\net8.0-windows\lab6.pdb
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.FormAdd.resources
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.dll
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\refint\lab6.dll
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.pdb
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\lab6.genruntimeconfig.cache
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\obj\Debug\net8.0-windows\ref\lab6.dll
+C:\Users\79457\Desktop\ITC-5231-Data Structrue\lab8\lab6\bin\Debug\net8.0-windows\grocery_inventory_items.txt
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\bin\Debug\net8.0-windows\lab6.exe
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\bin\Debug\net8.0-windows\grocery_inventory_items.txt
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\bin\Debug\net8.0-windows\lab6.deps.json
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\bin\Debug\net8.0-windows\lab6.runtimeconfig.json
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\bin\Debug\net8.0-windows\lab6.dll
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\bin\Debug\net8.0-windows\lab6.pdb
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.mainForm.resources
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.FormAdd.resources
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.csproj.GenerateResource.cache
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.AssemblyInfoInputs.cache
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.AssemblyInfo.cs
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.csproj.CoreCompileInputs.cache
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.dll
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\refint\lab6.dll
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.pdb
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\lab6.genruntimeconfig.cache
+D:\Application Dev using C#.Net - ITE-5230-IRA\lab6\lab6\lab6\obj\Debug\net8.0-windows\ref\lab6.dll
